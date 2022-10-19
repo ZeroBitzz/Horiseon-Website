@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* changed the class name from hero to meeting-img to better clarify what it is */
 .meeting-img {
     height: 800px;
     width: 100%;
